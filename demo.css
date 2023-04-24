@@ -1,0 +1,9 @@
+@font-face {
+  font-display: swap;
+  font-family: Segoe UI Emoji;
+  src: url("https://cdn.jsdelivr.net/gh/aetinx/ms-emoji/seguiemj.ttf");
+}
+
+body, * {
+  font-family: "Segoe UI Emoji";
+}
